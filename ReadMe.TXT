@@ -50,3 +50,17 @@ https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_theme_band_complete
 After every changes you can run these two commands in cmd line:
 git commit -m "first commit"
 git push --force
+
+
+
+тоже самое можно сделать 
+шаг 1 
+нажать CTRL+Shift+P
+шаг 2
+набрать 
+git commit 
+после надо ввести коментарии для комита
+шаг 3
+нажать CTRL+Shift+P
+набрать 
+git push
