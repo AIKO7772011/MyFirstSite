@@ -37,3 +37,11 @@ Total 5 (delta 0), reused 0 (delta 0)
 To https://github.com/AIKO7772011/MyFirstSite.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+
+Using Git with VS Code and Github
+https://www.youtube.com/watch?v=9cMWR-EGFuY
+
+
+пример сайта отсюда
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_theme_band_complete&stacked=h
