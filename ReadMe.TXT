@@ -45,3 +45,8 @@ https://www.youtube.com/watch?v=9cMWR-EGFuY
 
 пример сайта отсюда
 https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_theme_band_complete&stacked=h
+
+
+After every changes you can run these two commands in cmd line:
+git commit -m "first commit"
+git push --force
