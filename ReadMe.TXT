@@ -64,3 +64,12 @@ git commit
 нажать CTRL+Shift+P
 набрать 
 git push
+
+
+тут есть шаблоны для сайтов
+https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+
+
+
+
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_theme_me_complete&stacked=h
